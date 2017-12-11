@@ -1,5 +1,0 @@
-# ImageTask
-
--------
-eqwqwr
-------
