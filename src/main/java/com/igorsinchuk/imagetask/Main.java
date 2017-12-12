@@ -9,8 +9,8 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-       Main compare = new Main("./src/main/resources/Images/img1.png",
-               "./src/main/resources/Images/img2.png");
+       Main compare = new Main("./src/main/resources/Images/image1.png",
+               "./src/main/resources/Images/image2.png");
        compare.setParameters(10,10 );
         compare.compare();
         if (!compare.isIdentic()) {
